@@ -1,0 +1,18 @@
+[
+  {
+    "orderId": "1023",
+    "name": "Kartik",
+    "status": "Out for delivery",
+    "expectedDate": "2025-11-12",
+    "product": "Wireless Earbuds",
+    "issue": "Delay due to local weather"
+  },
+  {
+    "orderId": "1041",
+    "name": "Aisha",
+    "status": "Delivered",
+    "expectedDate": "2025-11-09",
+    "product": "Running Shoes",
+    "issue": "None"
+  }
+]
